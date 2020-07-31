@@ -1,0 +1,62 @@
+{
+  "categorias": [
+    {
+      "titulo": "Patch Notes",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Notas de Atualização 10.15 - Análise Completa",
+          "url": "https://www.youtube.com/watch?v=Iqi8GOigv4U"
+        },
+        {
+          "titulo": "Notas de Atualização 10.14 - Análise completa",
+          "url": "https://www.youtube.com/watch?v=7cYBr120kI8"
+        },
+        {
+          "titulo": "Notas de Atualização 10.13 - Análise Completa",
+          "url": "https://www.youtube.com/watch?v=qGycTZzajVM"
+        }
+      ]
+    },
+    {
+      "titulo": "Gameplay Comentado",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Guias de Campeão",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Vlogs",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Primeiras Impressões",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
