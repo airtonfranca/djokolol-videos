@@ -1,6 +1,16 @@
 {
   "categorias": [
     {
+      "titulo": "Banner",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Raio X - Karthus",
+          "url": "https://www.youtube.com/watch?v=PIb2pA8DIBc"
+        }
+      ]
+    },
+    {
       "titulo": "Patch Notes",
       "cor": "#6BD1FF",
       "videos": [
@@ -15,6 +25,18 @@
         {
           "titulo": "Notas de Atualização 10.13 - Análise Completa",
           "url": "https://www.youtube.com/watch?v=qGycTZzajVM"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=lFbtvL45_3U"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=mLlE0JVFSJw"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=W5q1yXEUsAs"
         }
       ]
     },
@@ -24,7 +46,34 @@
       "videos": [
         {
           "titulo": "",
-          "url": ""
+          "url": "https://www.youtube.com/watch?v=2DklRQNCkkw"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=eASZVd_3u0I"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=tsrGYNcm55k"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=hgPqsUMKNZw"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=_mkPgPqsp2A"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=kZSUdwWJ_oQ"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=zgqKcoBJBY0"
+        },{
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=pYC5J1VTr1I"
         }
       ]
     },
@@ -34,7 +83,31 @@
       "videos": [
         {
           "titulo": "",
-          "url": ""
+          "url": "https://www.youtube.com/watch?v=t0QuB2H-G_U"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=bQxVwHnm-ek"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=CEQ1qfdy3pY"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=ZM0LxQ2O4zw"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=85frqmxKBho"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=l34rSPN0DH4"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=igenYxOMMFg"
         }
       ]
     },
@@ -44,7 +117,31 @@
       "videos": [
         {
           "titulo": "",
-          "url": ""
+          "url": "https://www.youtube.com/watch?v=kvIJ_qSqWSo"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=vFnhWLyzuaQ"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=wK1zkkSfmow"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=BugR4uxTOJQ"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=g-sQG2jSAsY"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=MQUFxwJ4hIg"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=sspLDoB3Z1A"
         }
       ]
     },
@@ -54,7 +151,35 @@
       "videos": [
         {
           "titulo": "",
-          "url": ""
+          "url": "https://www.youtube.com/watch?v=FYpXkWtLzYE"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=oeHfPhsk4e0"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=zIwFVJ76gGk"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Xlfd39u9SL0"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=isj6t9MDF08"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=eyVJm-cRPJk"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=pDJuHuH4AWY"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=YXkqKUcAYsQ"
         }
       ]
     }
