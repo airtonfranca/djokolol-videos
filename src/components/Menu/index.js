@@ -8,11 +8,11 @@ import { Link } from 'react-router-dom';
 function Menu() {
     return(
         <nav className="Menu">
-        <a to="/">
+        <Link to="/">
             <img class="Logo" src={Logo} alt="Djokolol logo" />
             <img class="Icon" src={Icon} alt="Djokolol icon" />
-        </a>
-        <Button as={Link}className="ButtonLink" to="/cadastro/video">
+        </Link>
+        <Button as={Link} className="ButtonLink" to="/cadastro/video">
             Novo Vídeo
         </Button>
         </nav>
